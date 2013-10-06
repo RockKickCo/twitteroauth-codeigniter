@@ -8,7 +8,7 @@
  */
 
 /* Load TwitterOauth lib */
-require_once('../twitteroauth/twitteroauth.php');
+require_once('../twitteroauth/twitteroauth/twitteroauth.php');
 
  /**
   * TwitterOAuth Codeigniter Library

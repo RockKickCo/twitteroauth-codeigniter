@@ -11,7 +11,7 @@
 require_once('twitteroauth/twitteroauth.php');
 
  /**
-  * Twitter Codeigniter Library
+  * TwitterOAuth Codeigniter Library
   */
 class TwitterOAuth_Codeigniter extends TwitterOAuth
 {

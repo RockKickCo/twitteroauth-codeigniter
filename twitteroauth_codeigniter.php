@@ -8,7 +8,7 @@
  */
 
 /* Load TwitterOauth lib */
-require_once(dirname(__FILE__) . '../twitteroauth/twitteroauth/twitteroauth.php');
+require_once(__DIR__ . '/../twitteroauth/twitteroauth/twitteroauth.php');
 
  /**
   * TwitterOAuth Codeigniter Library

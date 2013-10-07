@@ -2,7 +2,10 @@
 
 /**
  * Codeigniter wrapper for Abraham Williams' [TwitterOauth](https://github.com/abraham/twitteroauth) PHP library.
- * It also include the twitteroauth repo as submodule of the project, in order to keep things tidy.
+ *
+ * Super simple wrapper so that it works with Codeigniter's library loader, and means you can
+ * include twitteroauth in Codeigniter projects as a submodule, without having to update the
+ * library for use in your project.
  *
  * @author Ryan Hefner <hi@ryanhefner.com> http://ryanhefner.com
  */
